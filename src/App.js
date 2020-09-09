@@ -63,17 +63,7 @@ const Letronix = props => {
   );
 
 }
-
-const Credits = () => {
-  return (
-    <Spring
-      from={{opacity: 0}}
-    >
-      
-    </Spring>
-
-  )
-}
+ 
 export default function App() {
   const [text, setText] = useState("");
   const [inProp, setInProp] = useState(false);

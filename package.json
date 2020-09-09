@@ -1,29 +1,29 @@
 {
-  "name": "letronix-reborn",
+  "name": "letronix-protocol",
   "version": "1.0.0",
-  "description": "letronix...reborn!",
+  "description": "letronix...protocol!",
   "private": "true",
   "main": "index.js",
   "scripts": {
     "dev": "parcel public/index.html --port 3000",
-    "build": "parcel build public/index.html --public-url /letronix-reborn",
+    "build": "parcel build public/index.html --public-url /letronix-protocol",
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nidnogg/letronix-reborn.git"
+    "url": "git+https://github.com/Nidnogg/letronix-protocol.git"
   },
   "keywords": [
     "letronix",
-    "reborn"
+    "protocol"
   ],
   "author": "tloriato, nidnogg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nidnogg/letronix-reborn/issues"
+    "url": "https://github.com/Nidnogg/letronix-protocol/issues"
   },
-  "homepage": "https://github.com/Nidnogg/letronix-reborn",
+  "homepage": "https://github.com/Nidnogg/letronix-protocol",
   "devDependencies": {
     "gh-pages": "^3.1.0",
     "parcel-bundler": "^1.12.4"
